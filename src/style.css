@@ -19,6 +19,9 @@ body {
 }
 
 header {
+    margin: auto;
+    max-width: 900px;
+    background-color: rgba(0, 0, 0, 0.788);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -32,16 +35,15 @@ header {
 
 header > h1 {
     font-family: var(--fonteDestaque);
-    text-transform: inherit;
     font-size: 3em;
     border: 2px solid var(--cor1);
     outline: 1px solid white;
     padding: 5px;
     text-shadow:
-        1px 1px 0 white,
-        -1px -1px 0 white,
-        1px -1px 0 white,
-        -1px 1px 0 white;
+        1px 2px 0 white,
+        -2px -1px 0 white,
+        1px -2px 0 white,
+        -1px 3px 0 white;
 }
 
 header > p {
@@ -62,13 +64,64 @@ header > p >a {
 }
 
 main {
-    max-width: 700px;
+    max-width: 900px;
     margin: auto;
-    background-color: rgba(255, 255, 255, 0.911);
-    padding: 10px;
-    border: 2px solid var(--cor1);
+    background-color: white;
 }
 
 article {
-    margin: 50px 0px
+    padding: 100px 30px;
+    line-height: 2.5em;
+    font-family: var(--fontePoesia);
+    font-size: 2em;
+    font-weight: bold;
+
+}
+
+.article-imagem > p {
+    display: inline;
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+/*imagens do poema*/
+
+#imagem01 {
+    background-image: url(/assets/fundo01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#imagem02 {
+    background-image: url(/assets/fundo02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#imagem03 {
+    background-image: url(/assets/fundo03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+footer {
+    min-height: 70px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--fonteDestaque);
+    color: var(--cor1);
+    font-size: 1.5em;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.658);
+}
+
+footer > p > a {
+    color: white;
 }
