@@ -43,11 +43,11 @@ O projeto receberá modificações pessoais, com o objetivo de aprimorar o desig
 
 ## Checklist de desenvolvimento
 
-* [ ] Criar estrutura HTML5.
+* [x] Criar estrutura HTML5.
 
-  * [ ] Adicionar favicon.ico.
-  * [ ] Criar organização semântica.
-  * [ ] Criar classes necessárias.
+  * [x] Adicionar favicon.ico.
+  * [x] Criar organização semântica.
+  * [x] Criar classes necessárias.
 
 * [ ] Desenvolver estilização CSS3.
 
