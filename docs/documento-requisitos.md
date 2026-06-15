@@ -49,21 +49,21 @@ O projeto receberá modificações pessoais, com o objetivo de aprimorar o desig
   * [x] Criar organização semântica.
   * [x] Criar classes necessárias.
 
-* [ ] Desenvolver estilização CSS3.
+* [x] Desenvolver estilização CSS3.
 
-  * [ ] Criar estilo para Header.
-  * [ ] Criar estilo para Main.
-  * [ ] Criar estilo para Footer.
+  * [x] Criar estilo para Header.
+  * [x] Criar estilo para Main.
+  * [x] Criar estilo para Footer.
 
-* [ ] Melhorar responsividade.
+* [x] Melhorar responsividade.
 
-  * [ ] Limitar largura do conteúdo principal.
-  * [ ] Ajustar adaptação para telas menores.
+  * [x] Limitar largura do conteúdo principal.
+  * [x] Ajustar adaptação para telas menores.
 
-* [ ] Criar identidade visual.
+* [x] Criar identidade visual.
 
-  * [ ] Adicionar textura inspirada em cordel.
-  * [ ] Aplicar fundo escuro inspirado em gravuras tradicionais.
+  * [x] Adicionar textura inspirada em cordel.
+  * [x] Aplicar fundo escuro inspirado em gravuras tradicionais.
 
 ---
 
