@@ -15,7 +15,7 @@
 }
 
 body {
-    background-image: url(./assets/fundo04.png);
+    background-image: url(../assets/fundo04.png);
 }
 
 header {
@@ -86,7 +86,7 @@ article {
 /*imagens do poema*/
 
 #imagem01 {
-    background-image: url(./assets/fundo01.jpg);
+    background-image: url(../assets/fundo01.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -94,7 +94,7 @@ article {
 }
 
 #imagem02 {
-    background-image: url(./assets/fundo02.jpg);
+    background-image: url(../assets/fundo02.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -102,7 +102,7 @@ article {
 }
 
 #imagem03 {
-    background-image: url(./assets/fundo03.jpg);
+    background-image: url(../assets/fundo03.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
