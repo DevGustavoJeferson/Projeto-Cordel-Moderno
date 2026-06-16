@@ -110,6 +110,8 @@ article {
 }
 
 footer {
+    margin: auto;
+    max-width: 900px;
     min-height: 70px;
     padding: 10px;
     display: flex;
